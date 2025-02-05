@@ -72,7 +72,7 @@ class MainScreen extends StatelessWidget {
               else
                 const MainMobile(),
               const SizedBox(
-                height: 100,
+                height: 140,
                 // key: navKeys.first,
               ),
               //skillsSection
